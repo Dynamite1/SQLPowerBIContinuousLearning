@@ -1,4 +1,6 @@
-# I will be adding new learning of SQL and PowerBI in this projec.
+# Learning Logs Of PowerBI & SQL
+
+#I will be adding new learningS of SQL and PowerBI in this projecT.
 
 # PowerBi HeatMap
 
